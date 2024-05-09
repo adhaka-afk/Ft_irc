@@ -39,6 +39,13 @@ Run the compiled program to start the ft_irc server:
 - **port:** The port number on which the IRC server listens for incoming connections.
 - **password:** The connection password required by clients to connect to the server.
 
+
+After setting up the server, it's ready to accept connections. To connect to it, you can utilize various IRC clients or use the nc (NetCat) utility. Below is an example of how to connect using nc(do this in a different terminal):
+```bash
+nc localhost <port_number>
+```
+Replace <port_number> with the port number on which the server is listening. Once connected, you have to authenticate your client with a password, nickname, and username, and then you can start interacting with the server through the IRC protocol.
+
 ## Bonus Features
 Enhanced the IRC server with additional features:
 

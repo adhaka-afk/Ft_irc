@@ -58,7 +58,7 @@ This three-person project was done with [OcelotHero](https://github.com/OcelotHe
 
 ## 🚀 Next Project
 
-[ft_irc](https://github.com/adhaka-afk/CPP04)
+[Inception](https://github.com/adhaka-afk/Inception)
 
 ## ⏳ Previous Project
 
